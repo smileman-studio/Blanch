@@ -53,10 +53,10 @@
     <type fullname="UI.MapScreen.StageButton" preserve="all" />
     <type fullname="UI.MapScreen.StageUpPopup" preserve="all" />
     <type fullname="UI.Popups.BuyLivesPopup" preserve="all" />
+    <type fullname="UI.Popups.BuyTokensPopup" preserve="all" />
     <type fullname="UI.Popups.MessagePopup" preserve="all" />
     <type fullname="UI.Popups.NoMovesPopup" preserve="all" />
     <type fullname="UI.Popups.SettingsPopup" preserve="all" />
-    <type fullname="UI.Popups.ShopPopup" preserve="all" />
     <type fullname="UI.Popups.UpgradeStoragePopup" preserve="all" />
     <type fullname="UI.StartLevel.FieldBoosterView" preserve="all" />
     <type fullname="UI.StartLevel.StartLevelPopup" preserve="all" />

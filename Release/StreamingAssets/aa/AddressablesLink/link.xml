@@ -32,7 +32,7 @@
     <type fullname="Settings.Locations.LocationsStorage" preserve="all" />
     <type fullname="UI.BottomMenu.BottomMenuView" preserve="all" />
     <type fullname="UI.BottomMenu.TubButton" preserve="all" />
-    <type fullname="UI.Common.CurrencyText" preserve="all" />
+    <type fullname="UI.Common.CurrencyPanel" preserve="all" />
     <type fullname="UI.Common.HandPointerView" preserve="all" />
     <type fullname="UI.Common.NotificationPopup" preserve="all" />
     <type fullname="UI.Common.ProgressBar" preserve="all" />
@@ -52,11 +52,13 @@
     <type fullname="UI.MapScreen.NotEnoughStarsPopup" preserve="all" />
     <type fullname="UI.MapScreen.StageButton" preserve="all" />
     <type fullname="UI.MapScreen.StageUpPopup" preserve="all" />
+    <type fullname="UI.Popups.BuyBoosterPopup" preserve="all" />
     <type fullname="UI.Popups.BuyLivesPopup" preserve="all" />
     <type fullname="UI.Popups.BuyTokensPopup" preserve="all" />
     <type fullname="UI.Popups.MessagePopup" preserve="all" />
     <type fullname="UI.Popups.NoMovesPopup" preserve="all" />
     <type fullname="UI.Popups.SettingsPopup" preserve="all" />
+    <type fullname="UI.Popups.TokenPackElement" preserve="all" />
     <type fullname="UI.Popups.UpgradeStoragePopup" preserve="all" />
     <type fullname="UI.StartLevel.FieldBoosterView" preserve="all" />
     <type fullname="UI.StartLevel.StartLevelPopup" preserve="all" />
@@ -67,15 +69,15 @@
     <type fullname="Utilities.UI.ButtonBehavior" preserve="all" />
     <type fullname="Utilities.UI.FigmaLayoutApplier" preserve="all" />
     <type fullname="Utilities.UI.HorizontalSizeFitter" preserve="all" />
-    <type fullname="CoreServices.ViewServices.Animations.PathViewAnimation/PointData" preserve="nothing" serialized="true" />
-    <type fullname="CoreServices.ViewServices.Animations.ScaleViewAnimation/ScaleData" preserve="nothing" serialized="true" />
-    <type fullname="CoreServices.ViewServices.Animations.SwitchComponentViewAnimation/SwitchData" preserve="nothing" serialized="true" />
     <type fullname="Mkey.CRCurve" preserve="nothing" serialized="true" />
     <type fullname="Mkey.FadeAnim" preserve="nothing" serialized="true" />
     <type fullname="Mkey.MoveAnim" preserve="nothing" serialized="true" />
     <type fullname="Mkey.ScaleAnim" preserve="nothing" serialized="true" />
     <type fullname="Mkey.WindowOpions" preserve="nothing" serialized="true" />
     <type fullname="Settings.Locations.LocationBuildingSettings" preserve="nothing" serialized="true" />
+    <type fullname="CoreServices.ViewServices.Animations.PathViewAnimation/PointData" preserve="nothing" serialized="true" />
+    <type fullname="CoreServices.ViewServices.Animations.ScaleViewAnimation/ScaleData" preserve="nothing" serialized="true" />
+    <type fullname="CoreServices.ViewServices.Animations.SwitchComponentViewAnimation/SwitchData" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
@@ -154,10 +156,10 @@
     <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Canvas" preserve="all" />
